@@ -1,0 +1,33 @@
+/* Add this CSS code to your existing styles or in a separate CSS file */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blue;
+}
+
+.card {
+  height: 180px;
+}
+
+.card-header {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+#timer-label {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333333;
+}
